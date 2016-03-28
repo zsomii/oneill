@@ -1,0 +1,10 @@
+W	W	W	W	W	|
+G	G	G	G	W	|
+W	G	W	G	W	|
+W	G	W	H	W	|
+W	G	D_1-1	Z_10	W	|
+W	G	B	G	W	|
+W	S_1-1	G	H	W	|
+W	G	G	O	W	|
+W	H	G	G	W	|
+W	W	W	W	W	|
